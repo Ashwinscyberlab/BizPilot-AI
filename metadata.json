@@ -1,0 +1,8 @@
+{
+  "name": "BizPilot AI",
+  "description": "AI-powered small business management platform for orders, inventory, customers, enquiries, invoicing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
